@@ -1,5 +1,5 @@
 openai>=1.0.0
-gradio>=4.0.0
+gradio==5.0.0
 jsonschema>=4.0.0
 pyyaml>=6.0
 pypandoc>=1.11
